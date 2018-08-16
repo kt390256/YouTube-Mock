@@ -1,25 +1,5 @@
-# ReduxSimpleStarter
+# YouTube-Mock using React
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+User's input changes the video list on the right as well as changing the main video.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+![capture](https://user-images.githubusercontent.com/28064695/44238133-330d9900-a168-11e8-8f84-3e66aa3171cb.PNG)
